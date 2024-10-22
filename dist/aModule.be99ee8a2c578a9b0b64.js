@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcobatmdb=self.webpackChunkcobatmdb||[]).push([[716],{827:(b,s,c)=>{c(336),c(571)}},b=>{b(b.s=827)}]);
